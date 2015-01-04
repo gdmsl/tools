@@ -1,4 +1,4 @@
-#!/bin/dash
+#!/bin/bash
 
 echo "This script shows the computers with ssh port opened in the building B"
 echo "of the Fibonacci pole at UNIPI"

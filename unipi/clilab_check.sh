@@ -1,4 +1,4 @@
-#!/bin/dash
+#!/bin/bash
 
 echo "This script check which machines are up with ssh in the laboratories"
 echo "of the building B of the Fibonacci pole at UNIPI"
