@@ -1,4 +1,4 @@
-#!/bin/dash
+#!/bin/bash
 
 #
 # AUTHOR: Guido Masella <guido.masella@gmail.com>
